@@ -1,0 +1,20 @@
+{
+  "name": "un-countries",
+  "version": "1.0.0",
+  "description": "United Nations Country List",
+  "main": "dist/index.js",
+  "repository": "git@github.com:airarrazaval/un-countries.git",
+  "author": "Alfredo Irarrazaval <airarrazaval@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.12.4",
+    "@typescript-eslint/eslint-plugin": "^4.28.0",
+    "@typescript-eslint/parser": "^4.28.0",
+    "eslint": "^7.29.0",
+    "jest": "^27.0.5",
+    "ts-jest": "^27.0.3",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  }
+}
